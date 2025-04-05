@@ -90,7 +90,7 @@ export default function HeroSection() {
                                                 aria-label="submit"
                                                 size="sm"
                                                 className="rounded-(--radius)">
-                                                <span className="hidden md:block">Get Started</span>
+                                                <span className="hidden md:block">Request Early Access</span>
                                                 <SendHorizonal
                                                     className="relative mx-auto size-5 md:hidden"
                                                     strokeWidth={2}
